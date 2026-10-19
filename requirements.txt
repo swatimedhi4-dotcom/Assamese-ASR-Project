@@ -1,0 +1,9 @@
+transformers
+datasets
+jiwer
+librosa
+soundfile
+pandas
+accelerate
+safetensors
+torch
